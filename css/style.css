@@ -1,0 +1,13 @@
+.test1 {
+	float: right;
+	width: 300px;
+	height: 300px;
+	margin-left: 55px;
+}
+.text-wraper {
+	width: 500px;
+	float: left;
+}
+.clear {
+	clear: both;
+}
